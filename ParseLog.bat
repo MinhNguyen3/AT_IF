@@ -1,0 +1,1 @@
+py "%CD%\Script\ParseLog.py"
